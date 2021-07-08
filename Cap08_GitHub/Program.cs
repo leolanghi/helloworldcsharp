@@ -7,8 +7,9 @@ namespace Cap08_GitHub
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Bom dia!!!");
             Console.WriteLine("Como vc está hoje?");
+            Console.WriteLine("Tenha um Bom dia real!");
+            
 
             Console.ReadLine();
         }
